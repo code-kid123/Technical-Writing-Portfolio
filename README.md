@@ -11,7 +11,7 @@ A professional portfolio featuring deep-dives into Web3 ecosystems, smart contra
 
 ### 3. [NFT Gaming for Beginners](./nft-gaming-guide.md)
 * **Goal:** An introductory guide to the Play-to-Earn landscape.
-
+* [Designing Sustainable Liquidity Incentives (DeFi Deep Dive)](./sustainable-liquidity-incentives.md)
 ---
 
 ## 🛠️ Skills & Tools
