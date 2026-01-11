@@ -13,7 +13,6 @@ A professional portfolio featuring deep-dives into Web3 ecosystems, smart contra
 * **Goal:** An introductory guide to the Play-to-Earn landscape.
 
 ---
-* [Designing Sustainable Liquidity Incentives (DeFi Deep Dive)](./sustainable-liquidity-incentives.md)
 
 ## 🛠️ Skills & Tools
 * **Docs-as-Code:** GitHub, Markdown, Version Control.
