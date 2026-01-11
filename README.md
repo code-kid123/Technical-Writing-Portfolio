@@ -12,7 +12,7 @@ A professional portfolio featuring deep-dives into Web3 ecosystems, smart contra
 ### 3. [NFT Gaming for Beginners](./nft-gaming-guide.md)
 * **Goal:** An introductory guide to the Play-to-Earn landscape.
 
-### 4. [Beyond the Fork: Sustainable Liquidity Incentives](./sustainable-liquidity-incentives.md)
+### 4. [Beyond the Fork: Sustainable Liquidity Incentives](./Sustainable-liquidity-incentives.md)
 * **Goal:** Deconstructing Protocol Owned Liquidity (POL) and the ve-Model to solve the "mercenary capital" problem.
 ---
 
