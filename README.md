@@ -4,8 +4,7 @@ A professional portfolio featuring deep-dives into Web3 ecosystems, smart contra
 ## 📂 Featured Projects
 # Technical Writing & Research Portfolio
 
-### 1. [The Sentient Protocol: Architectural Overview](./The_End_of_the_AI_Secret_Society_Marshal (2).pdf)
-* **Goal:** A strategic framework deconstructing the "AI Secret Society" and outlining the Sentient Protocol. (Latest Project)
+### 1. [The Sentient Protocol: Architectural Overview](./The_End_of_the_AI_Secret_Society_Marshal%20%282%29.pdf)
 
 ### 2. [The Engineering of Value: DeFi Tokenomics](./tokenomics-analysis.md)
 * **Goal:** A structured framework to assess protocol sustainability.
