@@ -15,7 +15,7 @@ A professional portfolio featuring deep-dives into Web3 ecosystems, smart contra
 ### 4. [Beyond the Fork: Sustainable Liquidity Incentives](./Sustainable-liquidity-incentives.md)
 * **Goal:** Deconstructing Protocol Owned Liquidity (POL) and the ve-Model to solve the "mercenary capital" problem.
 
-## 5.  [The Sentient Protocol]: Technical Brief
+## 5.  [The Sentient Protocol](./The_End_of_the_AI_Secret_Society_Marshal (2).pdf)
 This repository contains the architectural overview and strategic framework for the Sentient Protocol.
 ---
 
